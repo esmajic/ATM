@@ -4,7 +4,7 @@ Write simple ATM application.
 
 App should offer following services:
 
-account creation
+- account creation
 - money transfer
 - account details printout
 
